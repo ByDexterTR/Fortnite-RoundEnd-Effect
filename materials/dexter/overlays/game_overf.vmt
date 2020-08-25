@@ -1,0 +1,5 @@
+"MonitorScreen"
+{
+	"$basetexture" "dexter/overlays/game_overf"
+	"$translucent" 1
+}

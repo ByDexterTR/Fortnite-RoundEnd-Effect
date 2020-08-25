@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"notifymsg"
+	{
+		"en"	"{darkred}[ByDexter] {default}Close round end {green}overlay and sound {darkblue}!effect"
+		"tr"	"{darkred}[ByDexter] {default}Tur sonu {green}overlay ve sesleri kapatmak için {darkblue}!efekt"
+	}
+	"Menutitle"
+	{
+		"en"	"< Round End Overlay/Sound Effect >"
+		"tr"	"< Tur Sonu Overlay/Ses Efekti >"
+	}
+	"ovon"
+	{
+		"en"	"> Overlay : ON <"
+		"tr"	"> Overlay : Açık <"
+	}
+	"ovoff"
+	{
+		"en"	"> Overlay : OFF <"
+		"tr"	"> Overlay : Kapalı <"
+	}
+	"soon"
+	{
+		"en"	"> Sound : ON <"
+		"tr"	"> Ses : Açık <"
+	}
+	"sooff"
+	{
+		"en"	"> Sound : OFF <"
+		"tr"	"> Ses : Kapalı <"
+	}
+	"chatsoff"
+	{
+		"en"	"{darkred}[ByDexter] {green}Sound effects {default}off."
+		"tr"	"{darkred}[ByDexter] {green}Ses efektleri {default}kapatıldı."
+	}
+	"chatson"
+	{
+		"en"	"{darkred}[ByDexter] {green}Sound effects {default}on."
+		"tr"	"{darkred}[ByDexter] {green}Ses efektleri {default}açıldı."
+	}
+	"chatooff"
+	{
+		"en"	"{darkred}[ByDexter] {green}Overlay effects {default}off."
+		"tr"	"{darkred}[ByDexter] {green}Overlay efektleri {default}kapatıldı."
+	}
+	"chatoon"
+	{
+		"en"	"{darkred}[ByDexter] {green}Overlay effects {default}on."
+		"tr"	"{darkred}[ByDexter] {green}Overlay efektleri {default}açıldı."
+	}
+}

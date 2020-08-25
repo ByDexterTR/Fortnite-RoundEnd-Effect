@@ -1,0 +1,5 @@
+"MonitorScreen"
+{
+	"$basetexture" "dexter/overlays/victory_royalef"
+	"$translucent" 1
+}
